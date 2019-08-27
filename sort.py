@@ -13,4 +13,3 @@ while len(a)>0 :
 	a.remove(tmp)
 print(c)
 
-#Shashi
