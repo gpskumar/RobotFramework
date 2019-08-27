@@ -12,3 +12,5 @@ while len(a)>0 :
 	c.append(tmp)
 	a.remove(tmp)
 print(c)
+
+#Shashi
